@@ -12,6 +12,7 @@ based on Livengood-Wu Descriptionr](https://repository.kaust.edu.sa/bitstream/ha
 Disclaimer: I am not in any way connected to CRECK modeling group, the purpose of this work is only academic, due to the attendance to the Combustion course at Politecnico of Milan in 2021-2022.
 
 ## Results
+### further details in [CODICE_IDT.pdf](https://github.com/sommaa/IDT_OSpp/blob/main/CODICE%20IDT.pdf)
 
 ## C12, correlated IDT vs OSpp detailed kinetic model IDT 
 ![alt text](https://github.com/sommaa/IDT_OSpp/blob/main/README_img/errore%20C12.bmp)
@@ -21,3 +22,5 @@ Disclaimer: I am not in any way connected to CRECK modeling group, the purpose o
 
 ## Sample trend of IC8
 ![alt text](https://github.com/sommaa/IDT_OSpp/blob/main/README_img/IC8_1.bmp)
+
+## further details in [CODICE_IDT.pdf](https://github.com/sommaa/IDT_OSpp/blob/main/CODICE%20IDT.pdf)
