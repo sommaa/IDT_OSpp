@@ -22,5 +22,3 @@ Disclaimer: I am not in any way connected to CRECK modeling group, the purpose o
 
 ## Sample trend of IC8
 ![alt text](https://github.com/sommaa/IDT_OSpp/blob/main/README_img/IC8_1.bmp)
-
-## further details in [CODICE_IDT.pdf](https://github.com/sommaa/IDT_OSpp/blob/main/CODICE%20IDT.pdf)
