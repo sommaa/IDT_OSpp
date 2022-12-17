@@ -1,0 +1,78 @@
+//-----------------------------------------------------------------//
+//     ____                    ______ __  __  ____  _  ________    //
+//    / __ \                  /  ___ |  \/  |/ __ \| |/ /  ____|   //
+//   | |  | |_ __   ___ _ __ |  (___ | \  / | |  | | ' /| |__      //
+//   | |  | | '_ \ / _ \ '_ \ \___  \| |\/| | |  | |  < |  __|     //
+//   | |__| | |_) |  __/ | | |____)  | |  | | |__| | . \| |____    //
+//    \____/| .__/ \___|_| |_|______/|_|  |_|\____/|_|\_\______|   //
+//         | |                                                     //
+//         |_|                                                     //
+//                                                                 //
+//                http://www.opensmoke.polimi.it/                  //
+//             http://creckmodeling.chem.polimi.it/                //
+//-----------------------------------------------------------------//
+
+Dictionary total
+{
+		@Kinetics 		    
+		@Thermodynamics 		    
+		@Output 	    
+}
+
+Dictionary BatchReactor 
+{
+     @KineticsPreProcessor total;
+
+     @Type NonIsothermal-ConstantVolume;
+
+     @InitialStatus initial-mixture;  
+
+     @EndTime  
+
+     //@SensitivityAnalysis sensitivity-options;
+
+	 @Options				output-options; 
+
+     @IgnitionDelayTimes		ignition-delay-times;
+
+}
+
+Dictionary initial-mixture
+{
+		@Temperature             
+		@Pressure           	
+
+		@EquivalenceRatio	     
+		@FuelMoles 			
+		@OxidizerMoles 		 
+}
+
+
+
+
+
+
+Dictionary output-options
+{	
+		@OutputSpecies CO2 O2;
+        @OutputFolder 
+}
+
+//Dictionary sensitivity-options
+//{	
+//	@Type 					arrhenius-parameters; 
+//	
+//	@DenseSolver 			Eigen;
+//	@DenseFullPivoting 		false;
+//	@SubSteps 				5;
+//	
+//	@Species 			
+//}
+
+Dictionary ignition-delay-times
+{
+	@Temperature	true;
+	@Pressure		true;
+	@Species		OH;
+}
+
