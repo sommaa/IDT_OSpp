@@ -20,5 +20,5 @@ Further details in [CODICE_IDT.pdf](https://github.com/sommaa/IDT_OSpp/blob/main
 * IC8, correlated IDT vs OSpp detailed kinetic model IDT 
 ![alt text](https://github.com/sommaa/IDT_OSpp/blob/main/README_img/errore%20ic8.bmp)
 
-* Sample trend of IC8
+* Sample trend of IC8 <br />
 ![FabConvert com_picture1](https://user-images.githubusercontent.com/120776791/209365652-193aeed4-1596-4cbe-920a-f517782098b8.png)
