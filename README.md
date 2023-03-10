@@ -7,6 +7,8 @@
  alt="Logo" width="350" height="60">
 
   </a>
+  <br />
+  <br />
   <p align="center">
     Matlab model and fitting of a correlation for compounds with NTC regions in OpenSmoke++. 
     <br />
