@@ -1,7 +1,22 @@
-# IDT_OSpp
 
-Matlab model and fitting of a correlation for compounds with NTC regions in OpenSmoke++. 
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/sommaa/IDT_OSpp">
+    <img src="https://user-images.githubusercontent.com/120776791/224352353-c3898792-888c-4296-bcc9-b2ccedbe656a.png"
+ alt="Logo" width="350" height="60">
 
+  </a>
+  <p align="center">
+    Matlab model and fitting of a correlation for compounds with NTC regions in OpenSmoke++. 
+    <br />
+    <a href="https://github.com/sommaa/IDT_OSpp/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/sommaa/IDT_OSpp/issues">Request Feature</a>
+  </p>
+</div>
+<br />
+    
 CRECK modeling site: http://creckmodeling.chem.polimi.it/
 
 OpenSmoke++ paper: Cuoci, A., Frassoldati, A., Faravelli, T., Ranzi, E., OpenSMOKE++: An object-oriented framework for the numerical modeling of reactive systems with detailed kinetic mechanisms (2015) Computer Physics Communications, 192, pp. 237-264, DOI: [10.1016/j.cpc.2015.02.014](https://www.sciencedirect.com/science/article/abs/pii/S0010465515000715?via%3Dihub)
