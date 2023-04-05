@@ -18,7 +18,13 @@
   </p>
 </div>
 <br />
-    
+   
+<div align="center">
+
+<a href='https://ko-fi.com/sommaa' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+
+</div>
+
 CRECK modeling site: http://creckmodeling.chem.polimi.it/
 
 OpenSmoke++ paper: Cuoci, A., Frassoldati, A., Faravelli, T., Ranzi, E., OpenSMOKE++: An object-oriented framework for the numerical modeling of reactive systems with detailed kinetic mechanisms (2015) Computer Physics Communications, 192, pp. 237-264, DOI: [10.1016/j.cpc.2015.02.014](https://www.sciencedirect.com/science/article/abs/pii/S0010465515000715?via%3Dihub)
