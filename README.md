@@ -38,7 +38,7 @@ OpenSmoke++ paper: Cuoci, A., Frassoldati, A., Faravelli, T., Ranzi, E., OpenSMO
 Reference paper: [Ignition Delay Time Correlation of Fuel Blends
 based on Livengood-Wu Description](https://repository.kaust.edu.sa/bitstream/handle/10754/625741/Ignition%20Delay%20Time%20Correlation%20-%20revised%20v3.pdf?sequence=1&isAllowed=n)
 
-Disclaimer: I am not in any way connected to CRECK modeling group, the purpose of this work is only academic, due to the attendance to the Combustion course at Politecnico of Milan in 2021-2022.
+Disclaimer: I am not in any way connected to CRECK modeling group or KAUST university, the purpose of this work is only academic, due to the attendance to the Combustion course at Politecnico of Milan in 2021-2022.
 
 ## Results
 Further details in [CODICE_IDT.pdf](https://github.com/sommaa/IDT_OSpp/blob/main/CODICE%20IDT.pdf)
